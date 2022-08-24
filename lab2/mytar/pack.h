@@ -6,7 +6,7 @@
 
 typedef struct file {
     char name[MAX_NAME_LEN];
-    /* _fsize_t size; */
+    unsigned int size;
     int bol; // seperating file and folder
 } file;
 

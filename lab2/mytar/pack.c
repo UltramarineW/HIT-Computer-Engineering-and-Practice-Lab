@@ -16,12 +16,7 @@ void show_help(){
 }
 
 int pack_file(char* folder_path, char* package_path){
-    printf("Packing file processing!\n");
-    
-    
-    
-    
-    
+    printf("Packing file start!\n");
 }
 
 int extract_file(char* package_path, char* folder_path){
