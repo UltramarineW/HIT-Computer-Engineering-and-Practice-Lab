@@ -4,9 +4,9 @@
 #include <string.h>
 #include "sort.h"
 
-/* #define Debug */
+#define Debug
 
-int dataType = FLOAT;
+int dataType = STUDENT;
 
 int   cmp(ElemType * a, ElemType *b);
 void  generateData(ElemType * A, int num);

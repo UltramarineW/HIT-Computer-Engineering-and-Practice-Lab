@@ -1,5 +1,5 @@
-#ifndef __SORT_H__
-#define __SORT_H__
+#ifndef SORT_H
+#define SORT_H
 
 #define INT 0
 #define FLOAT 1
