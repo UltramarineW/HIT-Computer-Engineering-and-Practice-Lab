@@ -1,5 +1,5 @@
 # HIT-Computer-Engineering-and-Practice-Lab
-哈尔滨工业大学计算机科学与工程程序设计实践实验
+哈尔滨工业大学计算机科学与工程程序设计实践实验 	CS34913
 
 - Lab1 建立程序设计运行环境
 
